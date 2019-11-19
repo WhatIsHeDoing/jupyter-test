@@ -3,4 +3,3 @@ jupyterlab
 numpy
 pandas
 plotly
-scipy

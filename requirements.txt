@@ -1,0 +1,6 @@
+chart_studio
+jupyterlab
+numpy
+pandas
+plotly
+scipy
